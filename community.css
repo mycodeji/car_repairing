@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 100px;
+}
+.carousel-item{
+    height: 500px;
+}
+
+.car h2{
+    text-align: center;
+    padding: 30px;
+    font-weight: lighter;
+}
+.car h3{
+    text-align: center;
+
+}
+.text{
+    text-align: center;
+}
+.fluid{
+   padding-left:120px;
+   padding-bottom: 50px;
+   padding-top: 40px;
+}
+.car a{
+    margin-left: 590px;
+    font-weight: lighter;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}

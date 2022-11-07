@@ -1,0 +1,374 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: rgb(255, 255, 255);
+}
+.log-in{
+    font-family: sans-serif;
+    background: #34495e;
+}
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+}
+.box h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.box input[type="text"],.box input[type="password"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+
+}
+#First-Section img{
+    height: 600px;
+    width: 1300px;
+}
+#second-section{
+    background-color: rgb(238, 238, 238);
+}
+#second-section h3{
+    float: left;
+    color: rgb(0, 0, 0);
+    padding-left: 50px;
+    padding-right: 20px;
+    font-weight: bold;
+    padding-top: 40px;
+}
+#second-section button {
+    color: #ffffff;
+    background-color: #2d63c8;
+    font-size: 19px;
+    border: 1px solid #2d63c8;
+    padding: 15px 50px;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#second-section button:hover {
+    color: #2d63c8;
+    background-color: #ffffff;
+}
+#third-section h2{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+#third-section p{
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 40px;
+}
+.chose-1{
+    float: left;
+    margin-left: 120px;
+}
+.chose-1 img{
+    width: 150px;
+    padding-left: 60px;
+    padding-bottom: 15px;
+}
+.chose-1 h5{
+    padding-left: 25px;
+}
+.chose-1 p{
+    font-size: 14px;
+} 
+
+.chose-2{
+    float: left;
+    margin-left: 100px;
+}
+.chose-2 img{
+    width: 180px;
+    padding-left: 100px;
+    padding-bottom: 15px;
+}
+.chose-2 h5{
+    padding-left: 70px;
+}
+.chose-2 p{
+    font-size: 14px;
+} 
+
+.chose-3{
+    float: left;
+    margin-left: 100px;
+}
+.chose-3 img{
+    width: 180px;
+    padding-left: 100px;
+    padding-bottom: 15px;
+}
+.chose-3 h5{
+    padding-left: 20px;
+}
+.chose-3 p{
+    font-size: 14px;
+} 
+#readmore{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 170px;
+    margin-bottom: 60px;
+
+}
+button {
+    color: #ffffff;
+    background-color: #2d63c8;
+    font-size: 19px;
+    border: 1px solid #2d63c8;
+    padding: 15px 40px;
+    cursor: pointer
+}
+button:hover {
+    color: #000000;
+    background-color: transparent;
+}
+#forth-section img{
+    float: left;
+    width: 750px;
+    padding-right: 80px;   
+}
+#forth-section h2{
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 30px;
+   
+}
+#forth-section p{
+    text-align: center;
+}
+#forth-section ul{
+    float: left;
+    padding-right: 100px;
+}
+#forth-section button{
+    margin-left: 580px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+#fifth-section h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+#fifth-section p{
+    text-align: center;
+}
+#fifth-section img{
+   
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 60px;
+}
+#fifth-section h5{
+    float: left;
+    padding-left: 110px;
+    margin-right: 35px;
+    padding-bottom: 30px;
+}
+#fifth-section button{
+    margin-left: 580px;
+    margin-bottom: 50px;
+}
+#sixth-section{
+background: url("image/image_03-390x260.jpg");
+background-attachment: fixed;
+background-size: cover;
+margin-bottom: 80px;
+}
+#sixth-section p{
+ color: #c7f5fd;  
+ text-align: center; 
+ padding-top: 80px;
+ padding-bottom: 40px; 
+ font-size: 23px; 
+ font-weight: bolder; 
+}
+#sixth-section h5{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-bottom: 50px;
+    font-weight: lighter;
+}
+#seventh-section h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#seventh-section p{
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: lighter;
+}
+#eighth-section{
+    margin-left: 50px;
+}
+#eighth-section p{
+     text-align: center;
+}
+#eighth-section h5{
+    text-align: center;
+}
+.one{
+    float: left;
+    padding-left: 90px;
+}
+.two{
+    float: left;
+    padding-left: 90px;
+}
+.three{
+    float: left;
+    padding-left:90px;
+}
+.four{
+    float: left;
+    padding-left: 90px;
+}
+.five{
+    float: left;
+    padding-left: 90px;
+}
+.six{
+    float: left;
+    padding-left: 90px;
+}
+#eighth-section img{
+    width: 400px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+#eighth-section h4{
+    float: left;
+    padding-left: 350px;
+    padding-top: 50px;
+}
+#eighth-section button{
+    margin-left: 70px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+#nine-section{
+    text-align: center;
+    margin-top: 100PX;;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 50PX;;
+}
+#nine-section h2{
+    padding-bottom: 40px;
+}
+#nine-section h5{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#nine-section p{
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+#ten-section h2{
+    text-align: center;  
+}
+#eleven-section{
+    background-color: #c2bcbc;
+    margin-top: 100px;
+}
+#eleven-section H2{
+    text-align: center;
+    padding-top: 30PX;
+}
+#eleven-section img{
+    padding-left: 45px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer{
+    background-color: black;
+    margin-top: -20px;
+    height: 360px;
+    width: auto;
+  }
+  .last{
+    color: white;
+    float: left;
+    padding-left:120px;
+  }
+  .last ul{
+  text-decoration: none;
+  }
+  .last ul li{
+    list-style-type: none;
+    margin-left: -40px;
+    line-height: 40px;
+  }
+  .last-2{
+    float: left;
+    color: white;
+    padding-left: 100px;
+  }
+  .last-2 ul li {
+    list-style-type: none;
+    margin-left: -40px;
+    line-height: 40px;
+  }
+  .last-2 ul li a{
+    color: white;
+    text-decoration: none;
+  }
+  .last-2 ul li a:hover{
+    color: #22abba;
+  }
+  .last-3{
+    float: left;
+    color: white;
+    padding-left: 100px;
+    width: 22%;
+  }
+  .last-3 ul li {
+    list-style-type: none;
+    margin-left: -40px;
+    line-height: 40px;
+  }
+  .last-3 ul li a{
+    color: white;
+    text-decoration: none;
+  }
+  .last-3 ul li a:hover{
+    color: #22abba;
+  }
+  .copy{
+    text-align: center;
+    color: white;
+    padding-top: 310px;
+    font-size: 90%;
+  }
+  #twelve-section form{
+    float: left;
+    color: white;
+    padding-left: 40px;
+  }
+  
+ 
